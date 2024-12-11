@@ -1,8 +1,8 @@
-<h1 align="center">halo<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Saya Marvell 🗿 </h1>
+<h1 align="center">Halo<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Saya Marvell 😁</h1>
 </p>
 
-- 🗿 Nama saya Marvell
-- 😁 Umur saya masih kecil 16 tahun 
+- 🗿 Nama Marvell
+- 😁 Umur 16 tahun 
 - 😅 Nggk tau, sip bagus suka greesell
 
 ## ```Follow Instagram kuuuu```
@@ -14,6 +14,6 @@
 
 </Details>
 
-## ```Makasih Oee```
+## ```Makasih Bree```
 
 - [`Idham`]()
