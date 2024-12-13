@@ -42,12 +42,12 @@ I'm here to **experiment**, **build**, and **share** cool projects with the worl
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarvellAlvin&show_icons=true&theme=radical)  
 
 ---
 
 ## 🏆 My Contributions  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MarvellAlvin&theme=radical)  
 
 ---
 
