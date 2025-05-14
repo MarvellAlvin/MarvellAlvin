@@ -6,8 +6,7 @@
 
 [![](https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=blue&labelColor=white)](https://www.instagram.com/marpell.xyz)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=ꜱᴇʟᴀᴍᴀᴛ-ᴅᴀᴛᴀɴɢ)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&width=435&lines=Selamat+Datang)](https://git.io/typing-svg)
 
 <p align="">
 <img src="https://github-readme-stats.vercel.app/api?username=MarvellAlvin&show_icons=true&theme=radical&title_color=2de2df&text_color=fff&icon_color=2de2df">
